@@ -1,6 +1,0 @@
-{
-  "name": "VeriTriage - Evidence-Based Issue & PR Triage for GitHub",
-  "description": "Intelligent GitHub App that evaluates incoming issues and pull requests by decomposing technical claims, verifying against codebases, auditing evidence, and delivering calibrated assessments.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
